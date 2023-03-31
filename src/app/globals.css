@@ -1,6 +1,5 @@
 body {
-  font: 1rem Orbitron,
-  Copperplate, "sans-serif";
+  font: 1rem Orbitron,  Copperplate, "sans-serif";
 }
 header{
   display: flex;
@@ -58,10 +57,11 @@ input[type=text], label{
   box-sizing: border-box;
 }
   input[type=number] {
-  width: 20%;
+  width: 30%;
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
+  text-align: center;
 }
 button {
   background-color: #4CAF50; /* Green */
